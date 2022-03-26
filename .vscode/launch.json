@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch DatabaseOperations",
+      "request": "launch",
+      "mainClass": "com.goutham.DatabaseOperations",
+      "projectName": "giftcard"
+    },
+    {
+      "type": "java",
+      "name": "Launch DatabaseOperations",
+      "request": "launch",
+      "mainClass": "DatabaseOperations",
+      "projectName": "giftcard"
+    },
+    {
+      "type": "java",
+      "name": "Launch App",
+      "request": "launch",
+      "mainClass": "com.goutham.App",
+      "projectName": "giftcard",
+      "console": "internalConsole"
+    }
+  ]
+}
